@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 a simple type-anotted function to concatenate 2 strings
 """

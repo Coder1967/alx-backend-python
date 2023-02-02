@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 a simple type-anotted function to add 2 float numbers
 """
